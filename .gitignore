@@ -1,0 +1,34 @@
+# Build output
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Runtime files
+设置.xml
+生成图片/
+_selftest*/
+selftest-error.txt
+test-report.txt
+
+# Binaries and packages
+*.exe
+*.dll
+*.pdb
+*.zip
+*.7z
+*.rar
+
+# Third-party fonts (licensed separately, not redistributed)
+Fonts/*.ttf
+Fonts/*.otf
+Fonts/*.ttc
+Fonts/*.TTF
+Fonts/*.OTF
+Fonts/*.TTC
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
